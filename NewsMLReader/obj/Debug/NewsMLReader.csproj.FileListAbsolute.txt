@@ -1,0 +1,8 @@
+C:\Dev\NewsMLReader\NewsMLReader\bin\Debug\NewsMLReader.dll
+C:\Dev\NewsMLReader\NewsMLReader\bin\Debug\NewsMLReader.pdb
+C:\Dev\NewsMLReader\NewsMLReader\obj\Debug\NewsMLReader.csprojResolveAssemblyReference.cache
+C:\Dev\NewsMLReader\NewsMLReader\obj\Debug\NewsMLReader.csproj.CoreCompileInputs.cache
+C:\Dev\NewsMLReader\NewsMLReader\obj\Debug\NewsMLReader.dll
+C:\Dev\NewsMLReader\NewsMLReader\obj\Debug\NewsMLReader.pdb
+C:\Dev\NewsMLReader\NewsMLReader\bin\Debug\Newtonsoft.Json.dll
+C:\Dev\NewsMLReader\NewsMLReader\bin\Debug\Newtonsoft.Json.xml
